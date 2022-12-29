@@ -1,0 +1,35 @@
+->  django-admin startproject  mysite
+
+// to run your file 
+but dont forget to change the directory 
+
+-> python manage.py runserver
+
+//   to se all functions  
+
+-> python manage.py 
+
+// now create a app 
+{its compulasary} 
+
+-> python manage.py startapp app_name 
+
+now the app is created 
+
+now create a python file named (urls.py)
+
+also import te relevelent file aand like views  
+
+
+
+To use Database 
+-> python manage.py makemigrations
+-> python mange.py migrate 
+
+
+now create the super_user
+
+
+
+
+
